@@ -5,7 +5,7 @@
 
 --Objekte
 function init()
-	server = 'http://www.deinehp.de/directory/';  --hier Sever anpassen
+	server = 'http://www.coolstream.to/coolstream.to/downloadcenter/';  --hier Sever anpassen
 	xmldatei = 'download.xml'; --name der xml anpassen
 	downloads = {};
 	n = neutrino();
